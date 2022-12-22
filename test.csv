@@ -1,0 +1,52 @@
+State,Year,Month,OD,state_name,Predicted Value
+AL,2015,April,738,Alabama,764
+AR,2015,April,373,Arkansas,374
+AZ,2015,April,1173,Arizona,1218
+CA,2015,April,4625,California,4730
+CO,2015,April,950,Colorado,950
+CT,2015,April,650,Connecticut,650
+DC,2015,April,113,District of Columbia,115
+DE,2015,April,200,Delaware,200
+FL,2015,April,2886,Florida,2886
+GA,2015,April,1270,Georgia,1280
+HI,2015,April,157,Hawaii,157
+IA,2015,April,265,Iowa,265
+ID,2015,April,219,Idaho,219
+IL,2015,April,1735,Illinois,1735
+IN,2015,April,1208,Indiana,1208
+KS,2015,April,332,Kansas,332
+KY,2015,April,1172,Kentucky,1172
+LA,2015,April,796,Louisiana,798
+MA,2015,April,1376,Massachusetts,1642
+MD,2015,April,1125,Maryland,1125
+ME,2015,April,243,Maine,243
+MI,2015,April,1941,Michigan,1943
+MN,2015,April,541,Minnesota,541
+MO,2015,April,1072,Missouri,1072
+MS,2015,April,322,Mississippi,322
+MT,2015,April,126,Montana,129
+NC,2015,April,1365,North Carolina,1419
+ND,2015,April,61,North Dakota,63
+NE,2015,April,125,Nebraska,125
+NH,2015,April,394,New Hampshire,398
+NJ,2015,April,1240,New Jersey,1271
+NM,2015,April,536,New Mexico,537
+NV,2015,April,584,Nevada,584
+NY,2015,April,1597,New York,1651
+OH,2015,April,2955,Ohio,2955
+OK,2015,April,766,Oklahoma,766
+OR,2015,April,517,Oregon,517
+PA,2015,April,2862,Pennsylvania,2949
+RI,2015,April,267,Rhode Island,268
+SC,2015,April,709,South Carolina,709
+SD,2015,April,57,South Dakota,58
+TN,2015,April,1302,Tennessee,1325
+TX,2015,April,2533,Texas,2577
+UT,2015,April,614,Utah,635
+VA,2015,April,966,Virginia,967
+VT,2015,April,85,Vermont,85
+WA,2015,April,1017,Washington,1017
+WI,2015,April,871,Wisconsin,875
+WV,2015,April,683,West Virginia,694
+WY,2015,April,112,Wyoming,112
+YC,2015,April,796,New York City,796
